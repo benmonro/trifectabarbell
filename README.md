@@ -7,3 +7,8 @@ trifecta barbell logos
 ![mexico](mexico.png)
 ![ireland](ireland.png)
 ![candada](canada.png)
+![chile](chile.png)
+![japan](japan.png)
+![](philippinnes.png)
+![](russia.png)
+![](uk.png)
