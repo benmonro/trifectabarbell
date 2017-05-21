@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1500"
-   height="1000"
-   viewBox="-4 -4 24 16"
+   width="606.4765"
+   height="629.16675"
+   viewBox="-4 -4 9.703624 10.066668"
    version="1.1"
    id="svg6797"
    sodipodi:docname="chile.svg"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,13 +59,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1598"
-     inkscape:window-height="929"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
      id="namedview6799"
      showgrid="false"
-     inkscape:zoom="1.0017643"
-     inkscape:cx="1885.3384"
-     inkscape:cy="568.70648"
+     inkscape:zoom="0.50088215"
+     inkscape:cx="483.06345"
+     inkscape:cy="118.13399"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -74,7 +74,8 @@
      id="g8385"
      inkscape:export-filename="/Users/bmonro/chile.png"
      inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96">
+     inkscape:export-ydpi="96"
+     transform="translate(-26.372857,-1.909396)">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.02203725px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 32.076481,3.4909583 -1.75147,1.2666754 V 2.6269106 Z"

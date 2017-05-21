@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 9 6"
-   width="900"
-   height="600"
+   viewBox="0 0 6.0647668 6.2916705"
+   width="606.47668"
+   height="629.16705"
    version="1.1"
    id="svg15865"
    sodipodi:docname="russia.svg"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,18 +59,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1330"
-     inkscape:window-height="986"
+     inkscape:window-height="855"
      id="namedview15867"
      showgrid="false"
      inkscape:zoom="0.88355392"
-     inkscape:cx="665.56803"
-     inkscape:cy="887.4421"
+     inkscape:cx="198.19691"
+     inkscape:cy="-62.157761"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg15865" />
   <g
-     transform="matrix(0.00131515,0,0,0.00131515,4.8631452,-2.8981022)"
+     transform="matrix(0.00131515,0,0,0.00131515,2.4699966,4.1732643)"
      style="display:none;opacity:1;fill:#000000"
      id="g13501">
     <path
@@ -87,7 +87,8 @@
   <g
      id="g18722"
      inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96">
+     inkscape:export-ydpi="96"
+     transform="translate(-2.3931486,7.0713665)">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.01377328px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 8.4579152,-3.5828893 7.3632464,-2.7912169 V -4.1229193 Z"
@@ -248,9 +249,4 @@
          id="path18051" />
     </g>
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#bc0000;stroke-width:0.01"
-     d="m 4.8799133,1.3746553 h 0.09988 l 0.03085,-0.0958 0.03085,0.0958 h 0.09987 l -0.08079,0.0592 0.03085,0.0958 -0.08078,-0.0592 -0.0808,0.0592 0.03086,-0.0958 z"
-     id="path18047" />
 </svg>

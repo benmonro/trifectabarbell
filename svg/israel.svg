@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="660"
-   height="480"
-   viewBox="0 0 220 160"
+   width="606.47638"
+   height="629.16675"
+   viewBox="0 0 202.15879 209.72225"
    id="svg8029"
    sodipodi:docname="israel.svg"
    inkscape:export-filename="/Users/bmonro/Downloads/trifecta-israel.png"
@@ -39,13 +39,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2156"
-     inkscape:window-height="1202"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
      id="namedview8031"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="461.01619"
-     inkscape:cy="105.38343"
+     inkscape:cx="149.77861"
+     inkscape:cy="185.20713"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -67,10 +67,8 @@
       ( (20*sqrt(3) - 5.5) * cos(30), (20*sqrt(3) - 5.5) * sin(30)) -->
     <polygon
        id="triangle"
-       points="0,-29.1410161513775421                 -25.2368602791855814, 14.5705080756887710                  25.2368602791855814, 14.5705080756887710"
-       stroke="#0038b8"
-       stroke-width="5.5"
-       fill-opacity="0" />
+       points="-25.23686,14.570508 25.23686,14.570508 0,-29.141016 "
+       style="fill-opacity:0;stroke:#0038b8;stroke-width:5.5" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath21602">
@@ -99,7 +97,7 @@
     flags used in Israel -->
   <g
      id="g22597"
-     transform="translate(-233.34524,-210.71782)">
+     transform="translate(-242.10309,-187.60348)">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.45910931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 444.26189,303.88608 -36.48895,26.38907 v -44.39006 z"
