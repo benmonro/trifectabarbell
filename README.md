@@ -1,14 +1,17 @@
-# trifectabarbell
-trifecta barbell logos
+#TrifectaBarbell
+Trifecta Barbell Logos
 
 ![](png/california.png)
-![israel](png/israel.png)
-![usa](png/usa.png)
-![mexico](png/mexico.png)
-![ireland](png/ireland.png)
-![candada](png/canada.png)
-![chile](png/chile.png)
-![japan](png/japan.png)
+![](png/canada.png)
+![](png/chile.png)
+![](png/elsalvador.png)
+![](png/ireland.png)
+![](png/israel.png)
+![](png/japan.png)
+![](png/mexico.png)
 ![](png/philippinnes.png)
+![](png/portugal.png)
 ![](png/russia.png)
+![](png/southKorea.png)
 ![](png/uk.png)
+![](png/usa.png)
