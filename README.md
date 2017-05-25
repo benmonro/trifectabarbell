@@ -12,6 +12,8 @@ Trifecta Barbell Logos
 ![](png/philippinnes.png)
 ![](png/portugal.png)
 ![](png/russia.png)
+![](png/russiaFed.png)
+![](png/sicily.png)
 ![](png/southKorea.png)
 ![](png/uk.png)
 ![](png/usa.png)
